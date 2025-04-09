@@ -49,10 +49,12 @@ Team Roles:
 - Hesham Abdeltawab: Data cleaning, preprocessing using python, and excel dashboard and documentation
 - Mennatalla Tarek: Tableau dashboard development and visual analysis and documentation
 Risk Assessment & Mitigation
+
 Risk	Description	Mitigation Strategy
 Data Quality Issues	Missing/incomplete values or outliers	Implement robust data cleaning and validation
 Project Delays	Due to tool learning curves or external dependencies	Establish contingency timelines and clear task assignments
 Technical Challenges	Difficulties in dashboard integration or advanced analytics	Provide tool-specific training and expert support
+
 Key Performance Indicators (KPIs)
 KPI	Value	Insight
 Total Sales	2,261,537	Strong overall sales performance across years
